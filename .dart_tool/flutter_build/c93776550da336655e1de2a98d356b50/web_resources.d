@@ -1,0 +1,1 @@
+ build\\web\\favicon.png build\\web\\icons\\Icon-192.png build\\web\\icons\\Icon-512.png build\\web\\index.html build\\web\\manifest.json:  E:\\Akshay0701.github.io\\web\\favicon.png E:\\Akshay0701.github.io\\web\\icons\\Icon-192.png E:\\Akshay0701.github.io\\web\\icons\\Icon-512.png E:\\Akshay0701.github.io\\web\\index.html E:\\Akshay0701.github.io\\web\\manifest.json
